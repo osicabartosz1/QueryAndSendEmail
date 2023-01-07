@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "QueryAndSendEmail": {
+      "commandName": "Project"
+    }
+  }
+}
